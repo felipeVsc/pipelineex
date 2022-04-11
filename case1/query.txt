@@ -1,0 +1,1 @@
+select data.State,data.GDP from data where data.Population>5000000
